@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeViewer</string>
+    <string name="jokeTitle"><u>New Joke</u></string>
+    <string name="backButtonText">Back</string>
+</resources>
