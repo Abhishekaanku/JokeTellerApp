@@ -1,4 +1,4 @@
-# Gradle for Android and Java Final Project
+# Gradle for Android and Java
 
 A demo app with multiple flavors that uses
 multiple libraries and Google Cloud Endpoints. It consists
